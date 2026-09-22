@@ -1,3 +1,5 @@
+# 🎵 Artistas e Música
+
 ## 📱 Sobre o Projeto
 
 **Artistas e Música** é um projeto desenvolvido pelo aluno **Pedro Paulo Costa Lisboa** como atividade acadêmica na **Etec de Guarulhos**, no curso de **Informática para Internet**.
@@ -24,4 +26,35 @@ A atividade teve como proposta desenvolver uma aplicação relacionada ao univer
 
 ### ▶️ Acessar o Projeto
 
-[🎵 Artistas e Música](https://snack.expo.dev/@pedrop_ayop/artistasemusica)
+<p align="center">
+  <a href="https://snack.expo.dev/@pedrop_ayop/artistasemusica">
+    🎵 <strong>Acessar o projeto no Expo Snack</strong>
+  </a>
+</p>
+
+---
+
+## 📸 Imagens do Projeto
+
+<p align="center">
+  <img src="foto1.png" width="250" alt="Tela 1 do projeto">
+  <img src="foto2.png" width="250" alt="Tela 2 do projeto">
+</p>
+
+<p align="center">
+  <img src="foto3.png" width="250" alt="Tela 3 do projeto">
+  <img src="foto4.png" width="250" alt="Tela 4 do projeto">
+</p>
+
+<p align="center">
+  <img src="foto5.png" width="250" alt="Tela 5 do projeto">
+  <img src="foto6.png" width="250" alt="Tela 6 do projeto">
+</p>
+
+---
+
+## 👨‍💻 Desenvolvedor
+
+**Pedro Paulo Costa Lisboa**
+
+Projeto desenvolvido como atividade acadêmica do curso de **Informática para Internet — Etec de Guarulhos**.
